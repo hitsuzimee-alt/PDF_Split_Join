@@ -6,7 +6,7 @@ from pypdf import PdfReader, PdfWriter
 # ページのタイトルやデザイン設定
 st.set_page_config(page_title="PDF らくらく一括分割・結合ツール", layout="centered")
 
-st.title("📄 PDF らくらく一括分割・結合ツール")
+st.title("📄 エッフェなあなたにPDF分割・結合ツール")
 st.write("スマホ、Mac、タブレットからいつでもどこでもPDFを加工できます。")
 
 # --- PDF処理ロジック ---
